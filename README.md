@@ -1,2 +1,2 @@
-# Market_Recommendation_Engine
-The code is structured to provide a comprehensive analysis of customer purchase behavior through a mix of data filtering, aggregation, forecasting, and visualization, enabling businesses to make informed decisions based on customer insights.
+# Recommendation System
+The code is designed to deliver a detailed analysis of customer purchase behavior by combining data filtering, aggregation, forecasting, and visualization. This approach equips businesses with valuable customer insights to support informed decision-making.
